@@ -9,5 +9,6 @@ public class Task {
         System.out.println("Счет до 23 выполнен");
         //тестирую
         System.out.println("Результат сверху");
+        System.out.println("Конец!");
     }
 }
