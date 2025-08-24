@@ -6,5 +6,6 @@ public class Task {
         for (int i = 0; i < 24; i++) {
             System.out.println(i);
         }
+        System.out.println("Счет выполнен");
     }
 }
