@@ -32,8 +32,8 @@ public class HomeWork2 {
                 break;
             }
             case 3: {
-                for (int j =10; j <= 20; j++) {
-                    System.out.println(j * j);
+                for (int j3 =10; j3 <= 20; j3++) {
+                    System.out.println(j3 * j3);
                 }
                 break;
             }
