@@ -43,6 +43,7 @@ public class HomeWork2 {
                     System.out.println(seven);
                     seven += 7;
                 }
+                System.out.println("Задача выполнена");
                 break;
             }
             case 5: {
