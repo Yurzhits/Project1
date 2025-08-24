@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class HomeWork2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Выберите задачу:");
+        System.out.println("Выберите задачу от 1 до 5:");
         int i = scanner.nextInt();
         switch (i) {
             case 1: {
