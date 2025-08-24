@@ -63,7 +63,7 @@ public class HomeWork2 {
             }
             default: {
                 System.out.println("Такой задачи нет");
-                for (int sad = 0; sad <3; sad++){
+                for (int sad = 0; sad < 3; sad++) {
                     System.out.println(":(");
                 }
             }
