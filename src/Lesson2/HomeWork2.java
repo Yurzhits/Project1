@@ -13,9 +13,9 @@ public class HomeWork2 {
 
                 int num = scanner.nextInt();
                 if (num % 2 == 0) {
-                    System.out.println("Ваше число четное");
+                    System.out.println("Число, которое вы ввели является четным");
                 } else {
-                    System.out.println("Ваше число нечетное");
+                    System.out.println("Число, которое вы ввели является нечетным");
                 }
                 break;
             }
