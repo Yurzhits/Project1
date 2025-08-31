@@ -133,5 +133,6 @@ public class HomeWork4 {
                 System.out.println("Output:" + Arrays.toString(arr));
             }
         }
+        scanner.close();
     }
 }
