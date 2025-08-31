@@ -85,7 +85,7 @@ public class HomeWork4 {
         for (int i = 0; i < size; i++) {
             arr5[i] = arr[size - 1 - i];
         }
-        System.out.println("Полиндром:" + Arrays.toString(arr5));
+        System.out.println("Полиндром данного массива:" + Arrays.toString(arr5));
 
 
 
