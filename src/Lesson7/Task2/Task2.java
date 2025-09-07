@@ -7,10 +7,10 @@ package Lesson7.Task2;
 public class Task2 {
     public static void main(String[] args) {
         //разные варианты
-        Apple apple1=new Apple();
+        Apple apple1 = new Apple();
         Apple apple2 = new Apple("красное");
-        Apple apple3=new Apple();
-        Apple apple4=new Apple();
+        Apple apple3 = new Apple();
+        Apple apple4 = new Apple();
         System.out.println(apple1.getColor());
         System.out.println(apple2.getColor());
         apple3.changeColor();
