@@ -76,5 +76,6 @@ public class Task2_2 {
         System.out.println("ИТОГ:");
         System.out.println("ОБЩИЙ ПЕРИМЕТР:" + allPerimeter);
         System.out.println("ОБЩАЯ ПЛОЩАДЬ:" + allSquare);
+        scanner.close();
     }
 }
