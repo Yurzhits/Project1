@@ -1,4 +1,4 @@
-package Lesson9.Task2;
+package Lesson9_10.Task2;
 
 public class User implements Cloneable {
     private String name;

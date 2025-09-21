@@ -1,6 +1,4 @@
-package Lesson9.Task2;
-
-import java.util.Objects;
+package Lesson9_10.Task2;
 
 public class Book implements Cloneable{
     private String title;
