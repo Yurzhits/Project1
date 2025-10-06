@@ -19,10 +19,6 @@ package Lesson15.Task4;
 //Предусмотреть возможность автоматического расширения коллекции при добавлении элемента
 //в том случае, когда коллекция уже заполнена.
 
-import Lesson15.Task3.Student;
-
-import java.util.List;
-
 public class Task4 {
     public static void main(String[] args) {
         CustomCollection Custom = new CustomCollection();
